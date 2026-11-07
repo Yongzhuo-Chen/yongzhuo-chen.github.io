@@ -28,7 +28,6 @@ GitHub Pages may take a little time to publish. Do not claim the website is live
 - `research.html`: research projects and interests.
 - `publications.html`: publications and status.
 - `cv.html`: PDF preview and credentials.
-- `beyond-research.html`: deliberately left as a placeholder rather than inventing personal hobbies.
 - `assets/style.css`: colors, typography and responsive layout.
 - `assets/Yongzhuo_Chen_CV.pdf`: replace whenever the academic CV changes.
 
@@ -36,5 +35,4 @@ GitHub Pages may take a little time to publish. Do not claim the website is live
 
 - This ready-to-publish sample contains a work email address and public scholarly profiles.
 - Some research is ongoing and is described accordingly, not as published work.
-- The Beyond Research page uses generic placeholders and should be personalized before public sharing.
 - No analytics, trackers, external libraries, or paid hosting are required.
